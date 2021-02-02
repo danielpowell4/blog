@@ -1,7 +1,7 @@
 ---
 title: "404-y glitch animation"
 date: '2016-09-16'
-image: "images/gifs/glitch-animation-sept-29-16.gif"
+image: "/images/gifs/glitch-animation-sept-29-16.gif"
 codepen_link: "https://codepen.io/bloom-dan/pen/ozZEPA?editors=0100#1"
 slug: 404-glitch-animation
 ---

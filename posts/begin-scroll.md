@@ -1,7 +1,7 @@
 ---
 title: "begin scrolling"
 date: '2018-11-18'
-image: "images/gifs/begin-scroll-nov-18-2018.gif"
+image: "/images/gifs/begin-scroll-nov-18-2018.gif"
 codepen_link: "https://codepen.io/bloom-dan/pen/qQPVJX?editors=0100"
 slug: begin-scroll
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Active State Button Animation"
 date: '2016-08-08'
-image: "images/gifs/back-to-top-button-hover-active-labels-aug-08-2016.gif"
+image: "/images/gifs/back-to-top-button-hover-active-labels-aug-08-2016.gif"
 codepen_link: "https://codepen.io/bloom-dan/pen/XKyaAE?editors=0100#1"
 slug: back-to-top-button-hover-active-labels
 ---

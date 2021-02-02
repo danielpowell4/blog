@@ -1,4 +1,5 @@
 import Head from "next/head"
+import Image from 'next/image'
 import Link from 'next/link'
 import Layout, { siteTitle } from '../components/layout'
 import Date from '../components/date'
@@ -31,8 +32,16 @@ export default function Home ({ allPostsData }) {
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
         <ul className={utilStyles.list}>
-          {allPostsData.map(({ id, date, title }) => (
+          {allPostsData.map(({ id, date, title, image }) => (
             <li className={utilStyles.listItem} key={id}>
+              <Image
+                src={image}
+                alt={`Preview of ${title}`}
+                width={420}
+                height={200}
+                layout="intrinsic"
+              />
+              <br />
               <Link href={`/posts/${id}`}>
                 <a>{title}</a>
               </Link>
