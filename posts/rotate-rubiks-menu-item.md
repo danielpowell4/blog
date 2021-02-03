@@ -6,4 +6,8 @@ codepen_link: "https://codepen.io/bloom-dan/pen/JKaXkr?editors=0100#1"
 slug: rotate-rubiks-menu-item
 ---
 
-Testing 1 2 3
+A menu that isn't the same!!
+
+The internet can be an inventive place if we let it and don't lean too hard into trends.
+
+Idea credit: a site I forgot to write down 😭

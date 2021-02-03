@@ -6,4 +6,8 @@ codepen_link: "https://codepen.io/bloom-dan/pen/mqvdQy?editors=0100#1"
 slug: sale-tag-shadow
 ---
 
-Testing 1 2 3
+Who can say no to spending a ton of money when there is a flat sale tag with a shadow for some pop? Not me.
+
+Inspired by [evo.com]()'s President's Sale 2018
+
+Uses an absolutely positioned after element with a bit of rotation and some box shadow.

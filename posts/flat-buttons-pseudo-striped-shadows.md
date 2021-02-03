@@ -1,9 +1,9 @@
 ---
 title: "Flat Buttons' Striped Pseudo Shadows"
 date: '2016-08-30'
-image: "/images/gifs/flat-buttons-psuedo-striped-shadows-aug-30-2016.gif"
+image: "/images/gifs/flat-buttons-pseudo-striped-shadows-aug-30-2016.gif"
 codepen_link: "https://codepen.io/bloom-dan/pen/dpbWRz?editors=0100#1"
-slug: flat-buttons-psuedo-striped-shadows
+slug: flat-buttons-pseudo-striped-shadows
 ---
 
 Flat Buttons are all the rage. Stripes are in season.

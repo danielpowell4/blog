@@ -6,4 +6,8 @@ codepen_link: "https://codepen.io/bloom-dan/pen/oQGrOo?editors=0100"
 slug: topsy-turvy
 ---
 
-Testing 1 2 3
+This simple "I-go-up, you-go-down" hover effect makes for a not-so-subtle but engaging hover effect for the CTA in a pullout
+
+Is created in a css-only fashion by wrapping each letter in a span and using a simple nth-child(odd/even) selector with transform translateY and simple ease transition
+
+lifted from [https://toi.io/]()

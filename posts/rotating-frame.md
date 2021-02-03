@@ -6,4 +6,10 @@ codepen_link: "https://codepen.io/bloom-dan/pen/MzGZqx?editors=0100"
 slug: rotating-frame
 ---
 
-Testing 1 2 3
+This fun featured image pull out rotates on hover.
+
+Competing transforms of the image wrapper and image itself ensure that the picture is always straight up so only the frame rotates--as if it was a window to the image.
+
+The shadow, which is sourced from a png for ease, quickly dissipates using a css effect too.
+
+recreated from the evergreen [www.smashingmagazine.com]()

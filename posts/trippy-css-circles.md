@@ -6,4 +6,6 @@ codepen_link: "https://codepen.io/bloom-dan/pen/jVmwaB?editors=0100#1"
 slug: trippy-css-circles
 ---
 
-Testing 1 2 3
+Don't get overwhelmed.
+
+If you do–remember–it's okay to close your computer!

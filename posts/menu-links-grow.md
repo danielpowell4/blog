@@ -6,4 +6,11 @@ codepen_link: "https://codepen.io/bloom-dan/pen/QQzdbe?editors=0100#1"
 slug: menu-links-grow
 ---
 
-Testing 1 2 3
+Spotted over at astronomer.io (awesome design team certainly!)
+
+Footer links have a nice hover effect.
+
+Pairs well with:
+  - a colorful svg logo
+  - social media links
+  - links to legal things someone said you need

@@ -6,7 +6,7 @@ codepen_link: "https://codepen.io/bloom-dan/pen/bZmGOB?editors=0100#1"
 slug: hue-rotation
 ---
 
-A simple animation and some neat filters go a long way!
+A pastel, simple animation and some neat filters go a long way!
 
 ```css
 @keyframes hueRotation {

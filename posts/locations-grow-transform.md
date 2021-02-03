@@ -6,3 +6,5 @@ image: '/images/gifs/our-locations-july-7-2016.gif'
 ---
 
 Locations for original PP site
+
+Notice that `transform: scale(1.15);` makes things look naturally nice without fussing over several `width`'s, `height`'s and `font-size`'s
