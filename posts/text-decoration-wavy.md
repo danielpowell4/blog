@@ -12,4 +12,4 @@ No `houdini` here. See the inlined background-image SVG url on the link's span.
 
 DOPE!
 
-Spotted over at [https://www.mica.edu/graduate-programs/data-analytics-and-visualization-mps/]()
+Spotted over at [https://www.mica.edu/graduate-programs/data-analytics-and-visualization-mps/](https://www.mica.edu/graduate-programs/data-analytics-and-visualization-mps/)

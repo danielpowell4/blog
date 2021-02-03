@@ -14,4 +14,4 @@ Check out [W3](https://www.w3schools.com/css/css_counters.asp) or [MDN](https://
 
 Otherwise, you declare a counter reset and increment on a before element. The rest is CSS magic
 
-See it in action over at [https://www.kitchennetworkdenver.com/]()
+See it in action over at [https://www.kitchennetworkdenver.com/](https://www.kitchennetworkdenver.com/)

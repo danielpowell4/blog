@@ -10,4 +10,4 @@ slug: gambling-pseudo-element-hover
 
 Rather than setting a definite content to a pseudo element (::before or ::after), you are able to set it to the contents of an attribute. Here the data-hover attribute contains duplicate text, but it easily could contain other text. Overflow is then set to hidden on the parent element to control text is in view.
 
-First noticed at [http://lateliertokyo.com/]()
+First noticed at [http://lateliertokyo.com/](http://lateliertokyo.com/)

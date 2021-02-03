@@ -10,4 +10,4 @@ slug: cubic-bezier-button-load-left
 
 This pen uses css relative positioning on a parent and absolute position on a :pseudo element to create a grow in animation transitioning a width from 0 to 100%.
 
-First spotted at [https://trends.hautehorlogerie.org/]()
+First spotted at [https://trends.hautehorlogerie.org/](https://trends.hautehorlogerie.org/)

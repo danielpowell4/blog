@@ -10,4 +10,4 @@ slug: floating-hashed-backgrounds
 
 An exercise into different styles and subtleties
 
-Comes with a similar shadow to [https://codepen.io/bloom-dan/pen/grxrjA?editors=0100#1]()
+Comes with a similar shadow to [https://codepen.io/bloom-dan/pen/grxrjA?editors=0100#1](https://codepen.io/bloom-dan/pen/grxrjA?editors=0100#1)

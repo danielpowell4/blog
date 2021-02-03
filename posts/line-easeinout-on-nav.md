@@ -7,4 +7,4 @@ imageHeight: 210
 codepenLink: "https://codepen.io/bloom-dan/pen/PzRrbX?editors=0100#1"
 ---
 
-A simple Ease-In-Out growth animation for the <a> elements in a navigation. This was pulled from [http://fiorito.nl/]() and slightly tweaked thereafter. Images are pulled randomly from the lorempixel.com site and may take a second to fully render.
+A simple Ease-In-Out growth animation for the <a> elements in a navigation. This was pulled from [http://fiorito.nl/](http://fiorito.nl/) and slightly tweaked thereafter. Images are pulled randomly from the lorempixel.com site and may take a second to fully render.

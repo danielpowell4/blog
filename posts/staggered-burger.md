@@ -14,4 +14,4 @@ This subtle CSS hover effect scoots the absolutely positioned bars out of view r
 
 manually segmented transition-delays keep it fun.
 
-Originally ripped off [awwwards.com]()
+Originally ripped off [awwwards.com](https://awwwards.com)

@@ -9,4 +9,4 @@ imageHeight: 269
 
 Links should be fun and probably not the color `#00f`
 
-This shows off a "Shadow Underline Link Accent w/ Background on Hover" taken from [Wired.com]()
+This shows off a "Shadow Underline Link Accent w/ Background on Hover" taken from [Wired.com](https://wired.com)

@@ -14,9 +14,9 @@ This listens to the window's 'onscroll' event and based on a few simple JS measu
 
 The smoothness comes from a CSS transition!
 
-This is a fun effect I've seen before but picked up at over at [http://www.fullslate.com/]()
+This is a fun effect I've seen before but picked up at over at [http://www.fullslate.com/](http://www.fullslate.com/)
 
-The (awesome) SVG illustration was borrowed from the awesome team over at [https://undraw.co/]()
+The (awesome) SVG illustration was borrowed from the awesome team over at [https://undraw.co/](https://undraw.co/)
 
 Didn't take the time to make mobile friendly so anything under ~764px looks screwy. No one uses the internet on their phones, right?
 

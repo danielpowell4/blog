@@ -14,4 +14,4 @@ It is important to note that a majority of the button's traits (border, backgrou
 
 This resting color palette was gleaned from sources across the web. The darkened text colors were selected by taking the original colors down two major hex steps (f->d, a->8, 4->2) and then adjusting for preference.
 
-Inspired from [http://couleecreative.com/]()
+Inspired from [http://couleecreative.com/](http://couleecreative.com/)

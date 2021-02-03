@@ -14,5 +14,5 @@ This avoids the need to include javascript of any sorts and builds out the moder
 
 The menu is hidden by default and grows in from the left only when the "button" is clicked.
 
-See [https://codepen.io/bloom-dan/pen/vKdoar]() for a top-down drop in.
-Check out [https://codepen.io/bloom-dan/pen/bwpabj]() for smart mobile hamburgers.
+See [https://codepen.io/bloom-dan/pen/vKdoar](https://codepen.io/bloom-dan/pen/vKdoar) for a top-down drop in.
+Check out [https://codepen.io/bloom-dan/pen/bwpabj](https://codepen.io/bloom-dan/pen/bwpabj) for smart mobile hamburgers.

@@ -12,4 +12,4 @@ This simple "I-go-up, you-go-down" hover effect makes for a not-so-subtle but en
 
 Is created in a css-only fashion by wrapping each letter in a span and using a simple nth-child(odd/even) selector with transform translateY and simple ease transition
 
-lifted from [https://toi.io/]()
+lifted from [https://toi.io/](https://toi.io/)

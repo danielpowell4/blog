@@ -11,4 +11,4 @@ A pure css color overlay with cutout (screened) text.
 
 Takes advantage of the lesser-known "mix-blend-mode" css built in, which are like filters in photoshop. A simple keyframes transform makes it move.
 
-Write up over at now 🌅'd CodePen Posts: [https://codepen.io/bloom-dan/post/screened-text-color-overlay-step-by-step]()
+Write up over at now 🌅'd CodePen Posts: [https://codepen.io/bloom-dan/post/screened-text-color-overlay-step-by-step](https://codepen.io/bloom-dan/post/screened-text-color-overlay-step-by-step)

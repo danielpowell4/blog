@@ -12,4 +12,4 @@ When it comes to links and buttons, pseudo elements can do just about anything w
 
 This :before + :after combo has both a stylistic highlight that shrinks on hover and an arrow that points the way when active
 
-Inspired by [https://www.cssdesignawards.com/]()
+Inspired by [https://www.cssdesignawards.com/](https://www.cssdesignawards.com/)

@@ -10,4 +10,4 @@ slug: flat-grid-w-glare
 
 This is a fantastic, flat ui grid great for showcasing content. It features a pseudo::before glare in the form of a linear gradient that brightens the grid items and provides enhanced coloring and shadows.
 
-First spotted over at [http://method.digital/]()
+First spotted over at [http://method.digital/](http://method.digital/)

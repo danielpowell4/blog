@@ -12,4 +12,4 @@ This is a simple demo of an animation I am working on for a kitchen display syst
 
 This could also work well for a todo list or really any other card-based complete UI
 
-More over at [https://kapsel.io/demo]()
+More over at [https://kapsel.io/demo](https://kapsel.io/demo)

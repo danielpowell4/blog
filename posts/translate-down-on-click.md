@@ -14,4 +14,4 @@ It feels so right for a click to actually push a button down.
 
 This pen displays the delight giving interaction see in codepen's previous and next buttons. A simple 1px translation down when a button is clicked.
 
-Inspired by [http://codepen.io]()
+Inspired by [CodePen](https://codepen.io)

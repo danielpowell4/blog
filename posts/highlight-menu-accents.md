@@ -12,4 +12,4 @@ This pen showcases menu highlights inspired by a highlighter. The right align gi
 
 The juice is towards the bottom of the css in styled :before elements on the links, which transition from `left: 100%` to `left: 10px` or so.
 
-Inspired by [http://projections.pl/]()
+Inspired by [http://projections.pl/](http://projections.pl/)

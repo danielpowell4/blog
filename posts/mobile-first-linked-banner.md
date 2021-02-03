@@ -12,4 +12,4 @@ Sliders are totally overrated. Most fall off before a single transition. Better 
 
 The smaller than 700 px version hides all sans the first link. This first link transforms into a nifty button borrowed from here:
 
-[http://codepen.io/bloom-dan/pen/ozzgoz]()
+[http://codepen.io/bloom-dan/pen/ozzgoz](http://codepen.io/bloom-dan/pen/ozzgoz)

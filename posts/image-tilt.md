@@ -12,4 +12,4 @@ This pen uses minimal vanilla js to track mouse's movement over an image. Based 
 
 Photo cred: https://unsplash.com/photos/TApAkERW5pQ
 
-Idea recreated based on a concept seen on [https://erudi.to/](). They also have an awesome url + contact form!
+Idea recreated based on a concept seen on [https://erudi.to/](https://erudi.to/). They also have an awesome url + contact form!
