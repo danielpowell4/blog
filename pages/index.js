@@ -6,6 +6,7 @@ import Date from '../components/date'
 import { getSortedPostsData } from '../lib/posts'
 
 import utilStyles from '../styles/utils.module.css'
+import homeStyles from '../styles/home.module.css'
 
 export async function getStaticProps() {
   const allPostsData = getSortedPostsData()
@@ -22,12 +23,28 @@ export default function Home ({ allPostsData }) {
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
-        <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
+      <section className={`${utilStyles.headingMd} ${utilStyles.capWidth}`}>
+        <h2 className={utilStyles.headingLg}>Hey cool kids!</h2>
+        <p>Building stuff is fun. Going fast and steady is great.</p>
+        <p>Can't let the bad days get you down!</p>
+        <p>I'm currently serving as CTO <a href="https://privateprep.com">@privateprep</a></p>
+        <ul className={homeStyles.socialLinks}>
+          <li className={homeStyles.socialLinks__item}>
+            <a href="https://github.com/danielpowell4">
+              <Image src="/images/icons/github.svg" alt="GitHub Logo" width={60} height={60}/>
+            </a>
+          </li>
+          <li className={homeStyles.socialLinks__item}>
+            <a href="https://codepen.io/bloom-dan/">
+              <Image src="/images/icons/codepen.svg" alt="CodePen Logo" width={60} height={60}/>
+            </a>
+          </li>
+          <li className={homeStyles.socialLinks__item}>
+            <a href="mailto:dan@gobloom.io?subject='Hi Dan!'">
+              <Image src="/images/icons/mail.svg" alt="Email Icon" width={60} height={60}/>
+            </a>
+          </li>
+        </ul>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
