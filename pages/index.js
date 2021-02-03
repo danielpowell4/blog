@@ -27,8 +27,7 @@ export default function Home ({ allPostsData }) {
       <section className={`${utilStyles.headingMd} ${utilStyles.capWidth}`}>
         <h2 className={utilStyles.headingLg}>Hey cool kids!</h2>
         <p>Building stuff is fun. Going fast and steady is great.</p>
-        <p>Can't let the bad days get you down!</p>
-        <p>I'm currently serving as CTO <a href="https://privateprep.com">@privateprep</a></p>
+        <p>I'm currently serving as CTO <a href="https://privateprep.com">@privateprep</a> and would love to chat about what you have going on.</p>
         <ul className={homeStyles.socialLinks}>
           <li className={homeStyles.socialLinks__item}>
             <a href="https://github.com/danielpowell4">
@@ -51,7 +50,7 @@ export default function Home ({ allPostsData }) {
         <div className={utilStyles.capWidth}>
           <h2 className={utilStyles.headingLg}>Playground</h2>
           <p>Here you'll find some things I've made over the years along with a quick link to steal the code.</p>
-          <p>For better or worse what's become my daily work of specs, SQL queries, and private commits aren't as fun to look at.</p>
+          <p>For better or worse what's become my daily work of specs, code review, and private commits aren't as fun to look at.</p>
         </div>
         <ul className={homeStyles.gallery}>
           {allPostsData.map(({ id, date, title, image, imageWidth, imageHeight }) => {
