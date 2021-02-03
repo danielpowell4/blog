@@ -2,7 +2,6 @@ import Head from "next/head"
 import Image from 'next/image'
 import Link from 'next/link'
 import Layout, { siteTitle } from '../components/layout'
-import Date from '../components/date'
 import { getSortedPostsData } from '../lib/posts'
 
 import utilStyles from '../styles/utils.module.css'
@@ -60,21 +59,18 @@ export default function Home ({ allPostsData }) {
 
             return (
               <li className={utilStyles.listItem} key={id}>
-                <Image
-                  src={image}
-                  alt={`Preview of ${title}`}
-                  width={FIXED_IMAGE_WIDTH}
-                  height={Math.floor(correctionRatio * imageHeight)}
-                  layout="intrinsic"
-                />
-                <br />
                 <Link href={`/posts/${id}`}>
-                  <a>{title}</a>
+                  <a className={homeStyles.cardLink}>
+                    <Image
+                      src={image}
+                      alt={`Preview of ${title}`}
+                      width={FIXED_IMAGE_WIDTH}
+                      height={Math.floor(correctionRatio * imageHeight)}
+                      objectFit="cover"
+                    />
+                    <span className={homeStyles.cardLink__title}>{title}</span>
+                  </a>
                 </Link>
-                <br />
-                <small className={utilStyles.lightText}>
-                  <Date dateString={date} />
-                </small>
               </li>
             )
           })}
