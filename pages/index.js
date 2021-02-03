@@ -17,6 +17,8 @@ export async function getStaticProps() {
   }
 }
 
+const FIXED_IMAGE_WIDTH = 480;
+
 export default function Home ({ allPostsData }) {
   return (
     <Layout home>
@@ -46,28 +48,36 @@ export default function Home ({ allPostsData }) {
           </li>
         </ul>
       </section>
-      <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Blog</h2>
-        <ul className={utilStyles.list}>
-          {allPostsData.map(({ id, date, title, image }) => (
-            <li className={utilStyles.listItem} key={id}>
-              <Image
-                src={image}
-                alt={`Preview of ${title}`}
-                width={420}
-                height={200}
-                layout="intrinsic"
-              />
-              <br />
-              <Link href={`/posts/${id}`}>
-                <a>{title}</a>
-              </Link>
-              <br />
-              <small className={utilStyles.lightText}>
-                <Date dateString={date} />
-              </small>
-            </li>
-          ))}
+      <section className={`${utilStyles.headingMd} ${utilStyles.centerPadding}`}>
+        <div className={utilStyles.capWidth}>
+          <h2 className={utilStyles.headingLg}>Playground</h2>
+          <p>Here you'll find some things I've made over the years along with a quick link to steal the code.</p>
+          <p>For better or worse what's become my daily work of specs, SQL queries, and private commits aren't as fun to look at.</p>
+        </div>
+        <ul className={homeStyles.gallery}>
+          {allPostsData.map(({ id, date, title, image, imageWidth, imageHeight }) => {
+            const correctionRatio = FIXED_IMAGE_WIDTH / imageWidth;
+
+            return (
+              <li className={utilStyles.listItem} key={id}>
+                <Image
+                  src={image}
+                  alt={`Preview of ${title}`}
+                  width={FIXED_IMAGE_WIDTH}
+                  height={Math.floor(correctionRatio * imageHeight)}
+                  layout="intrinsic"
+                />
+                <br />
+                <Link href={`/posts/${id}`}>
+                  <a>{title}</a>
+                </Link>
+                <br />
+                <small className={utilStyles.lightText}>
+                  <Date dateString={date} />
+                </small>
+              </li>
+            )
+          })}
         </ul>
       </section>
     </Layout>

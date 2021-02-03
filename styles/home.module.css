@@ -1,0 +1,27 @@
+.gallery {
+  list-style: none;
+  margin: 0;
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(480px,1fr));
+  align-items: center;
+}
+
+.socialLinks {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.socialLinks__item:not(:first-of-type) {
+ margin-left: 1rem;
+}
+
+.socialLinks__item:hover {
+  filter: blur(0.125rem);
+}

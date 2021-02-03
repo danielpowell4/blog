@@ -1,0 +1,15 @@
+.article {
+  display: grid;
+  grid-template-columns: 520px auto;
+  max-width: 1080px;
+  margin: 2rem auto;
+  grid-gap: 4rem;
+  align-items: center;
+}
+
+.codepenLink {
+  display: block;
+  text-align: center;
+  margin-top: 1rem;
+  font-size: 1.15rem;
+}
