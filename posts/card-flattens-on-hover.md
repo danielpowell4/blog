@@ -1,9 +1,11 @@
 ---
 title: "Card Flattens on Hover"
-date: '2000-01-01'
+date: '2016-07-06'
 image: "/images/gifs/card-flattens-on-hover.gif"
 codepen_link: "https://codepen.io/bloom-dan/pen/grxrjA?editors=0100#1"
 slug: "card-flattens-on-hover"
 ---
 
-Testing 1 2 3
+On mouse hover, an information card animates to appear as if it lays flat on the screen.
+
+The simple styles changes with the `box-shadow` make for a nice effect given the right environment.
