@@ -14,4 +14,4 @@ Keeping with the rest of the site's one view-height one purpose theme, this foot
 
 This footer is particularly brilliant, though, because of its superb use of grey and slow-so-you-notice animations on the main menu which load a true white from the bottom.
 
-Modified from: http://www.maisonullens.com/
+Modified from: [maisonullens.com/](http://www.maisonullens.com/)

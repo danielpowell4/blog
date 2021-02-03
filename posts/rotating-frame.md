@@ -14,4 +14,4 @@ Competing transforms of the image wrapper and image itself ensure that the pictu
 
 The shadow, which is sourced from a png for ease, quickly dissipates using a css effect too.
 
-recreated from the evergreen [www.smashingmagazine.com](www.smashingmagazine.com)
+recreated from the evergreen [smashingmagazine.com](https://www.smashingmagazine.com)
