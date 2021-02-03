@@ -53,8 +53,9 @@ export default function Home ({ allPostsData }) {
           <p>For better or worse what's become my daily work of specs, code review, and private commits aren't as fun to look at.</p>
         </div>
         <ul className={homeStyles.gallery}>
-          {allPostsData.map(({ id, date, title, image, imageWidth, imageHeight }) => {
+          {allPostsData.map(({ id, title, image, imageWidth, imageHeight }, postIndex) => {
             const correctionRatio = FIXED_IMAGE_WIDTH / imageWidth;
+            const isPriority = postIndex < 6;
 
             return (
               <li className={utilStyles.listItem} key={id}>
@@ -66,6 +67,7 @@ export default function Home ({ allPostsData }) {
                       width={FIXED_IMAGE_WIDTH}
                       height={Math.floor(correctionRatio * imageHeight)}
                       objectFit="cover"
+                      priority={isPriority}
                     />
                     <span className={homeStyles.cardLink__title}>{title}</span>
                   </a>
