@@ -6,4 +6,8 @@ codepen_link: "https://codepen.io/bloom-dan/pen/EOLZVE?editors=0100"
 slug: gimme-more
 ---
 
-Testing 1 2 3
+When it comes to links and buttons, pseudo elements can do just about anything worth doing.
+
+This :before + :after combo has both a stylistic highlight that shrinks on hover and an arrow that points the way when active
+
+Inspired by [https://www.cssdesignawards.com/]()

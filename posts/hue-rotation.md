@@ -6,4 +6,11 @@ codepen_link: "https://codepen.io/bloom-dan/pen/bZmGOB?editors=0100#1"
 slug: hue-rotation
 ---
 
-Testing 1 2 3
+A simple animation and some neat filters go a long way!
+
+```css
+@keyframes hueRotation {
+  0%   {-webkit-filter:hue-rotate(0deg);}
+  100% {-webkit-filter:hue-rotate(360deg);}
+}
+```

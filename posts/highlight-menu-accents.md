@@ -6,4 +6,8 @@ codepen_link: "https://codepen.io/bloom-dan/pen/pERYkE?editors=0100#1"
 slug: highlight-menu-accents
 ---
 
-Testing 1 2 3
+This pen showcases menu highlights inspired by a highlighter. The right align gives the menu a tad more of an edge. Through google fonts this pen sports Catamaran.
+
+The juice is towards the bottom of the css in styled :before elements on the links, which transition from `left: 100%` to `left: 10px` or so.
+
+Inspired by [http://projections.pl/]()

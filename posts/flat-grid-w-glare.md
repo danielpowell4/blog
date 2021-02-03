@@ -6,4 +6,6 @@ codepen_link: "https://codepen.io/bloom-dan/pen/grJoLZ?editors=0100#1"
 slug: flat-grid-w-glare
 ---
 
-Testing 1 2 3
+This is a fantastic, flat ui grid great for showcasing content. It features a pseudo::before glare in the form of a linear gradient that brightens the grid items and provides enhanced coloring and shadows.
+
+First spotted over at [http://method.digital/]()

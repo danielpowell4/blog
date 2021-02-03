@@ -6,4 +6,6 @@ codepen_link: "https://codepen.io/bloom-dan/pen/dXZyRp?editors=0100#1"
 slug: howdy-color-generator
 ---
 
-Testing 1 2 3
+This is a showcase of how and why click-ability and why micro-animation is super important in interactions. Howdy.ai's button is superb.
+
+For the button alone see this pen: [http://codepen.io/bloom-dan/pen/bZvmGp]()

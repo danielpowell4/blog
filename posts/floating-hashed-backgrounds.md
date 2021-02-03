@@ -6,4 +6,6 @@ codepen_link: "https://codepen.io/bloom-dan/pen/JRpKoL?editors=0100#1"
 slug: floating-hashed-backgrounds
 ---
 
-Testing 1 2 3
+An exercise into different styles and subtleties
+
+Comes with a similar shadow to [https://codepen.io/bloom-dan/pen/grxrjA?editors=0100#1]()
