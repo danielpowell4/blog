@@ -1,9 +1,11 @@
 .article {
   display: grid;
-  grid-template-columns: 520px auto;
+  grid-template-columns: 1fr;
   max-width: 1080px;
+  padding: 1rem;
+  width: 100%;
   margin: 2rem auto;
-  grid-gap: 4rem;
+  grid-gap: 2rem;
   align-items: center;
 }
 
@@ -12,4 +14,11 @@
   text-align: center;
   margin-top: 1rem;
   font-size: 1.15rem;
+}
+
+@media (min-width: 960px) {
+  .article {
+    grid-template-columns: 520px auto;
+    grid-gap: 4rem;
+  }
 }
