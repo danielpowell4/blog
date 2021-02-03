@@ -2,7 +2,9 @@
 title: "Agree or Die Button"
 date: '2017-10-26'
 image: "/images/gifs/agree-or-die-button-oct-26-2017.gif"
-codepen_link: "https://codepen.io/bloom-dan/pen/gGVdeR?editors=0100#1"
+imageWidth: 404
+imageHeight: 210
+codepenLink: "https://codepen.io/bloom-dan/pen/gGVdeR?editors=0100#1"
 slug: agree-or-die-button
 ---
 

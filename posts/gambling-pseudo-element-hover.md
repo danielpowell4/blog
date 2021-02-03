@@ -2,7 +2,9 @@
 title: "Pseudo Element Gambling Hover"
 date: '2016-08-01'
 image: "/images/gifs/gambling-pseudo-element-hover-aug-01-2016.gif"
-codepen_link: "https://codepen.io/bloom-dan/pen/mEGZbY?editors=0100#1"
+imageWidth: 480
+imageHeight: 287
+codepenLink: "https://codepen.io/bloom-dan/pen/mEGZbY?editors=0100#1"
 slug: gambling-pseudo-element-hover
 ---
 

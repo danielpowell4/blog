@@ -2,7 +2,9 @@
 title: "Mobile First Linked Banner"
 date: '2017-01-03'
 image: "/images/gifs/mobile-first-linked-banner-jan-03-2017.gif"
-codepen_link: "https://codepen.io/bloom-dan/pen/GrRXWe?editors=0100#1"
+imageWidth: 640
+imageHeight: 320
+codepenLink: "https://codepen.io/bloom-dan/pen/GrRXWe?editors=0100#1"
 slug: mobile-first-linked-banner
 ---
 

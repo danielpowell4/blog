@@ -2,7 +2,9 @@
 title: "CSS only menu from left"
 date: '2016-09-16'
 image: "/images/gifs/checkbox-menu-from-left.gif"
-codepen_link: "https://codepen.io/bloom-dan/pen/QKEAbB?editors=0100#1"
+imageWidth: 480
+imageHeight: 418
+codepenLink: "https://codepen.io/bloom-dan/pen/QKEAbB?editors=0100#1"
 slug: checkbox-menu-from-left
 ---
 

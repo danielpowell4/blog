@@ -2,7 +2,9 @@
 title: "✅ Ticket Keyframe"
 date: '2018-09-29'
 image: "/images/gifs/completed-ticket-keyframe-nov-04-2018.gif"
-codepen_link: "https://codepen.io/bloom-dan/pen/GYgXqL?editors=0100"
+imageWidth: 480
+imageHeight: 242
+codepenLink: "https://codepen.io/bloom-dan/pen/GYgXqL?editors=0100"
 slug: completed-ticket-keyframe
 ---
 

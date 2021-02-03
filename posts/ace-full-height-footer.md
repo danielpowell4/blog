@@ -2,7 +2,9 @@
 title: "Ace full height footer"
 date: "2016-09-16"
 image: "/images/gifs/ace-full-height-footer.gif"
-codepen_link: "https://codepen.io/bloom-dan/pen/rrLdok?editors=0100#1"
+imageWidth: 480
+imageHeight: 238
+codepenLink: "https://codepen.io/bloom-dan/pen/rrLdok?editors=0100#1"
 slug: "ace-full-height-footer"
 ---
 

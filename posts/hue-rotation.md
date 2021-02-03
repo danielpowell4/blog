@@ -2,7 +2,9 @@
 title: "Hue Rotation"
 date: '2016-08-03'
 image: "/images/gifs/hue-rotation-aug-03-2016.gif"
-codepen_link: "https://codepen.io/bloom-dan/pen/bZmGOB?editors=0100#1"
+imageWidth: 480
+imageHeight: 265
+codepenLink: "https://codepen.io/bloom-dan/pen/bZmGOB?editors=0100#1"
 slug: hue-rotation
 ---
 

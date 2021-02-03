@@ -2,7 +2,9 @@
 title: "Vox Light -> Dark Link Underline"
 date: '2016-07-15'
 image: "/images/gifs/vox-link-accent.gif"
-codepen_link: "https://codepen.io/bloom-dan/pen/EyovgL?editors=0100#1"
+imageWidth: 480
+imageHeight: 300
+codepenLink: "https://codepen.io/bloom-dan/pen/EyovgL?editors=0100#1"
 slug: "vox-link-accent"
 ---
 

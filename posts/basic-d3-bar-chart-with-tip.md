@@ -2,7 +2,9 @@
 title: "Basic D3 Bar Chart w/ Tip"
 date: '2016-10-09'
 image: "/images/gifs/basic-d3-bar-chart-with-tip-oct-9-16.gif"
-codepen_link: "https://codepen.io/bloom-dan/pen/RGxxxV?editors=0100#1"
+imageWidth: 480
+imageHeight: 347
+codepenLink: "https://codepen.io/bloom-dan/pen/RGxxxV?editors=0100#1"
 slug: basic-d3-bar-chart-with-tip
 ---
 

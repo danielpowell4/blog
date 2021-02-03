@@ -2,7 +2,9 @@
 title: "Flat Buttons' Striped Pseudo Shadows"
 date: '2016-08-30'
 image: "/images/gifs/flat-buttons-pseudo-striped-shadows-aug-30-2016.gif"
-codepen_link: "https://codepen.io/bloom-dan/pen/dpbWRz?editors=0100#1"
+imageWidth: 640
+imageHeight: 366
+codepenLink: "https://codepen.io/bloom-dan/pen/dpbWRz?editors=0100#1"
 slug: flat-buttons-pseudo-striped-shadows
 ---
 

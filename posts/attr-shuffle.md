@@ -2,7 +2,9 @@
 title: "attr shuffle"
 date: '2018-11-04'
 image: "/images/gifs/attr-shuffle-nov-04-2018.gif"
-codepen_link: "https://codepen.io/bloom-dan/pen/pQvPKj?editors=0100#1"
+imageWidth: 480
+imageHeight: 311
+codepenLink: "https://codepen.io/bloom-dan/pen/pQvPKj?editors=0100#1"
 slug: attr-shuffle
 ---
 

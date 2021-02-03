@@ -2,7 +2,9 @@
 title: "The Bop It Buttons"
 date: '2017-09-24'
 image: "/images/gifs/the-bop-it-buttons-sept-25-2017.gif"
-codepen_link: "https://codepen.io/bloom-dan/pen/QqGQor?editors=0100#1"
+imageWidth: 654
+imageHeight: 322
+codepenLink: "https://codepen.io/bloom-dan/pen/QqGQor?editors=0100#1"
 slug: the-bop-it-buttons
 ---
 

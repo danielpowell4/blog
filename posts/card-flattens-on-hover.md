@@ -2,7 +2,9 @@
 title: "Card Flattens on Hover"
 date: '2016-07-06'
 image: "/images/gifs/card-flattens-on-hover.gif"
-codepen_link: "https://codepen.io/bloom-dan/pen/grxrjA?editors=0100#1"
+imageWidth: 480
+imageHeight: 360
+codepenLink: "https://codepen.io/bloom-dan/pen/grxrjA?editors=0100#1"
 slug: "card-flattens-on-hover"
 ---
 

@@ -2,7 +2,9 @@
 title: "1 Element Pseudo Hamburgers"
 date: '2016-09-14'
 image: "/images/gifs/1-element-pseudo.png"
-codepen_link: "https://codepen.io/bloom-dan/pen/bwpabj?editors=0100#1"
+imageWidth: 1260
+imageHeight: 1224
+codepenLink: "https://codepen.io/bloom-dan/pen/bwpabj?editors=0100#1"
 slug: 1-element-pseudo
 ---
 

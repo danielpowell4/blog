@@ -2,7 +2,9 @@
 title: "Arrow linked Locations"
 date: "2018-03-18"
 image: "/images/gifs/arrow-linked-locations-march-3-2018.gif"
-codepen_link: "https://codepen.io/bloom-dan/pen/aqxKNj?editors=0100#1"
+imageWidth: 760
+imageHeight: 412
+codepenLink: "https://codepen.io/bloom-dan/pen/aqxKNj?editors=0100#1"
 slug: "arrow-linked-locations"
 ---
 
