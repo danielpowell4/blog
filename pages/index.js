@@ -39,6 +39,11 @@ export default function Home ({ allPostsData }) {
               <Image src="/images/icons/codepen.svg" alt="CodePen Logo" width={60} height={60}/>
             </a>
           </li>
+          <li className={homeStyles.socialLinks__item} style={{ padding: 10 }}>
+            <a href="https://www.linkedin.com/in/daniel-powell-11a91b70/">
+              <Image src="/images/icons/linkedin.svg" alt="LinkedIn Logo" width={40} height={40}/>
+            </a>
+          </li>
           <li className={homeStyles.socialLinks__item}>
             <a href="mailto:dan@gobloom.io?subject='Hi Dan!'">
               <Image src="/images/icons/mail.svg" alt="Email Icon" width={60} height={60}/>
