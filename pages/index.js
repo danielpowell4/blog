@@ -16,7 +16,7 @@ export async function getStaticProps() {
   }
 }
 
-const FIXED_IMAGE_WIDTH = 480;
+const FIXED_IMAGE_WIDTH = 340;
 
 export default function Home ({ allPostsData }) {
   return (
