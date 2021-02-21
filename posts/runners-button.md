@@ -5,6 +5,7 @@ codepenLink: "https://codepen.io/bloom-dan/pen/agRwwL?editors=0010#1"
 image: "/images/gifs/runners-button-july-07-2020.gif"
 imageWidth: 480
 imageHeight: 276
+slug: runners-button
 ---
 
 Classic filling button on hover via absolute positioning of a pseudo element.

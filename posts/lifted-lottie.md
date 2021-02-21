@@ -5,6 +5,7 @@ codepenLink: "https://codepen.io/bloom-dan/pen/KKNXdBW?editors=0010#1"
 image: "/images/gifs/lifted-lottie-feb-20-2021.gif"
 imageWidth: 480
 imageHeight: 320
+slug: lifted-lottie
 ---
 
 Hand coding up beautiful animation for the web and other platforms isn't for everyone. More human-focused app's like Adobe's after-effects is a bit more approachable at least.
