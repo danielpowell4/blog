@@ -1,6 +1,6 @@
 ---
 title: "Lifted Lottie"
-date: "2020-02-20"
+date: "2021-02-20"
 codepenLink: "https://codepen.io/bloom-dan/pen/KKNXdBW?editors=0010#1"
 image: "/images/gifs/lifted-lottie-feb-20-2021.gif"
 imageWidth: 480
