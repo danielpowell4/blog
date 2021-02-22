@@ -10,7 +10,7 @@ slug: lifted-lottie
 
 Hand coding up beautiful animation for the web and other platforms isn't for everyone. More human-focused app's like Adobe's after-effects is a bit more approachable at least.
 
-This use's a public `bodyMoving` script from airbnb for a smooth effect with extremely little human code required.
+This uses a public `bodyMoving` script from airbnb for a smooth effect with extremely little human code required.
 
 Animation lifted from the header on [moove-it](https://moove-it.com/web-development-apprenticeship)
 
