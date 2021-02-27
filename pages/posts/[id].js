@@ -34,6 +34,8 @@ export default function Post({ postData }) {
     <Layout>
       <Head>
         <title>{postData.title}</title>
+        <meta name="description" content={postData.description} />
+        <meta property="og:image" content={postData.image} />
       </Head>
       <article className={postStyles.article}>
         <div>
@@ -46,7 +48,7 @@ export default function Post({ postData }) {
           />
           {!!postData.codepenLink && <a href={postData.codepenLink} target="_blank" className={postStyles.codepenLink}>View on CodePen ↗</a>}
         </div>
-        <div className={postData.content}>
+        <div>
           <h1 className={utilStyles.headingXl}>{postData.title}</h1>
           <div className={utilStyles.lightText}>
             <Date dateString={postData.date} />

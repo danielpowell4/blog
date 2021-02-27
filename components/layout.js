@@ -4,7 +4,7 @@ import Head from "next/head"
 import Link from 'next/link'
 
 const name = 'Dan Powell'
-export const siteTitle = 'Dan Speaks Website'
+export const siteTitle = `Dan's Collection`;
 
 // pick random emoji as favicon
 const sample = arr => arr[Math.floor(Math.random() * arr.length)];
@@ -18,16 +18,13 @@ export default function Layout({ children, home }) {
           <link rel="icon" href={`data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>${sample(EMOJI_OF_BUILD)}</text></svg>`} />
           <meta
             name="description"
-            content="Learn how to build a personal website using Next.js"
+            content="Dan Powell presents an amazing collection of code snippets."
           />
           <meta
             property="og:image"
-            content={`https://og-image.now.sh/${encodeURI(
-              siteTitle
-            )}.png?theme=light&md=0&fontSize=75px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg`}
+            content="/images/profile.png"
           />
           <meta name="og:title" content={siteTitle} />
-          <meta name="twitter:card" content="summary_large_image" />
         </Head>
         <header className={styles.header}>
           {home ? (
