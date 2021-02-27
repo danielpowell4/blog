@@ -6,12 +6,16 @@ import Link from 'next/link'
 const name = 'Dan Powell'
 export const siteTitle = 'Dan Speaks Website'
 
+// pick random emoji as favicon
+const sample = arr => arr[Math.floor(Math.random() * arr.length)];
+const EMOJI_OF_BUILD = ["🐕", "👨‍🚀", "👨‍💻", "🖼", "🚀"];
+
 export default function Layout({ children, home }) {
   return (
     <>
       <div className={styles.container}>
         <Head>
-          <link rel="icon" href="/favicon.ico" />
+          <link rel="icon" href={`data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>${sample(EMOJI_OF_BUILD)}</text></svg>`} />
           <meta
             name="description"
             content="Learn how to build a personal website using Next.js"
