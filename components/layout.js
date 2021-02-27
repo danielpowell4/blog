@@ -16,15 +16,9 @@ export default function Layout({ children, home }) {
       <div className={styles.container}>
         <Head>
           <link rel="icon" href={`data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>${sample(EMOJI_OF_BUILD)}</text></svg>`} />
-          <meta
-            name="description"
-            content="Dan Powell presents an amazing collection of code snippets."
-          />
-          <meta
-            property="og:image"
-            content="/images/profile.png"
-          />
+          <meta name="description" content="Dan Powell presents an amazing collection of code snippets." />
           <meta name="og:title" content={siteTitle} />
+          <meta property="og:image" content="/images/profile.png" />
         </Head>
         <header className={styles.header}>
           {home ? (
