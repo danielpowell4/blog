@@ -3,8 +3,9 @@ import utilStyles from '../styles/utils.module.css'
 import Head from "next/head"
 import Link from 'next/link'
 
-const name = 'Dan Powell'
 export const siteTitle = `Dan's Collection`;
+const name = 'Dan Powell'
+const description = "Dan Powell presents an amazing collection of code snippets."
 
 // pick random emoji as favicon
 const sample = arr => arr[Math.floor(Math.random() * arr.length)];
@@ -16,8 +17,10 @@ export default function Layout({ children, home }) {
       <div className={styles.container}>
         <Head>
           <link rel="icon" href={`data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>${sample(EMOJI_OF_BUILD)}</text></svg>`} />
-          <meta name="description" content="Dan Powell presents an amazing collection of code snippets." />
+          <meta name="description" content={description} />
+          <meta property="og:type" content="website" />
           <meta name="og:title" content={siteTitle} />
+          <meta name="og:description" content={description} />
           <meta property="og:image" content="/images/profile.png" />
         </Head>
         <header className={styles.header}>
