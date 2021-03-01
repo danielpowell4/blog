@@ -4,7 +4,7 @@ date: '2021-02-27'
 image: "/images/gifs/ingredient-cards-feb-27-2021.gif"
 imageWidth: 480
 imageHeight: 166
-codepenLink: "https://codepen.io/bloom-dan/pen/JevGxR?editors=0010"
+codepenLink: "https://codepen.io/bloom-dan/pen/VwmXejX?editors=1100"
 slug: ingredient-cards
 ---
 
