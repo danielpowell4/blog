@@ -19,13 +19,13 @@ The data we're talking about is 'small enough' that the full dataset is readily 
 - write a hook that builds the filters from the data collection (array of objects)
 - have the hook filter down the collection
 - use a form in the UI to control the filters
-- have the form submit ~onChange so that the URL's search query saves filter state
+- have the form submit ~onChange so that the URL's search query saves filter state (good for pre-fill/sharing)
 
-The URL allows for linking to / sharing specific preset filters
-
-NOTE: This is in a Gatsby project that I contribute to so it is using @reach/router under the hood (which then became react-router v6)
+BONUS: This is abstracted so it can power really anything that needs this sort of functionality!
 
 ## See it live!
 
 - [Data from build step](https://thecodingspace.netlify.app/classes/)
 - [Data from client-side fetch](https://thecodingspace.netlify.app/experience-levels/advanced-code/)
+
+NOTE: This is in a Gatsby project that I contribute to so it is using @reach/router under the hood (which then became react-router v6)
