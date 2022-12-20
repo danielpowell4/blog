@@ -1,11 +1,11 @@
 ---
-title: "useClientSideFilters"
-date: '2021-06-09'
+title: "useFilters"
+date: "2021-06-09"
 image: "/images/gifs/client-side-filtering-june-9-2021.gif"
 imageWidth: 480
 imageHeight: 284
 githubLink: "https://gist.github.com/danielpowell4/1c03e624968b5e5b07b2017105bbe314"
-slug: image-tilt
+slug: client-side-filtering
 ---
 
 ## Problem:
