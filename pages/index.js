@@ -28,7 +28,7 @@ export default function Home({ allPostsData }) {
         <h2 className={utilStyles.headingLg}>Hey cool kids!</h2>
         <p>Building stuff is fun. Going fast and steady is great.</p>
         <p>
-          I'm currently serving as CTO{" "}
+          I'm currently serving as a Senior Fullstack Enginner + CTO{" "}
           <a href="https://privateprep.com">@privateprep</a> and would love to
           chat about what you have going on.
         </p>
