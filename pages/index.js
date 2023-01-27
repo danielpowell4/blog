@@ -85,8 +85,8 @@ export default function Home({ allPostsData }) {
             quick link to the code.
           </p>
           <p>
-            For better or worse most of my daily is private / isn't as fun to
-            look at.
+            For better or worse most of my daily work is private / isn't as fun
+            to look at.
           </p>
         </div>
         <ul className={homeStyles.gallery}>
