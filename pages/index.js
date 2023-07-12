@@ -28,9 +28,11 @@ export default function Home({ allPostsData }) {
         <h2 className={utilStyles.headingLg}>Hey cool kids!</h2>
         <p>Building stuff is fun. Going fast and steady is great.</p>
         <p>
-          I'm currently serving as a Senior Fullstack Enginner + CTO{" "}
-          <a href="https://privateprep.com">@privateprep</a> and would love to
-          chat about what you have going on.
+          {`I was previously CTO at `}
+          <a href="https://privateprep.com">@privateprep</a>
+          {`, am currently making the world a greener place as a Founding Senior Fullstack Engineer `}
+          <a href="https://tryplantiful.com">@tryplantiful</a>
+          {` and would love to chat about what you have going on.`}
         </p>
         <ul className={homeStyles.socialLinks}>
           <li className={homeStyles.socialLinks__item}>
